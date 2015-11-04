@@ -13,11 +13,47 @@
                     
                     <img src="img/banner/03-1-pozzuoli.png" class="ls-l" data-ls="top: 0, left: 0; offsetxin: 0; offsetyin: 0; delayin: 5500; showuntil: 3500;" alt="Image layer">
                     
-                    <span class="ls-l" style="width: 1324px; text-align: center; font-size: 58px; font-weight: 600; text-transform: uppercase; text-shadow: 1px 1px 0 rgba( 255, 255, 255, 0.5 ); top: 120px; left: 50%;" data-ls="delayin: 1000; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 8000;">L'Università di Videogiochi e Animazione</span>
+                    <span class="ls-l"
+                    	style="
+                        	width: 1324px;
+                            text-align: center;
+                            font-size: 58px;
+                            font-weight: 600;
+                            text-transform: uppercase; 
+                            text-shadow: 1px 1px 0 rgba( 255, 255, 255, 0.5 );
+                            top: 120px; 
+                            left: 50%;
+                        " 
+                        data-ls="delayin: 1000; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 8000;"
+                    >L'Università di Videogiochi e Animazione</span>
                     
-                    <span class="ls-l" style="width: 1324px; text-align: center; font-size: 58px; font-weight: 600; text-transform: uppercase; text-shadow: 1px 1px 0 rgba( 255, 255, 255, 0.5 ); top: 202px; left: 50%;" data-ls="delayin: 3000; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 6000;">apre le sue porte del</span>
+                    <span class="ls-l" 
+                    	style="
+                        	width: 1324px; 
+                            text-align: center; 
+                            font-size: 58px; 
+                            font-weight: 600; 
+                            text-transform: uppercase; 
+                            text-shadow: 1px 1px 0 rgba( 255, 255, 255, 0.5 ); 
+                            top: 202px; 
+                            left: 50%;
+                        " 
+                        data-ls="delayin: 3000; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 6000;"
+                    >apre le porte del</span>
                     
-                    <span class="ls-l" style="width: 1324px; text-align: center; font-size: 58px; font-weight: 600; text-transform: uppercase; text-shadow: 1px 1px 0 rgba( 255, 255, 255, 0.5 ); top: 284px; left: 50%;" data-ls="delayin: 5500; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 3500;"><span style="color: white;">nuovo campus</span> di <span style="color: white;">Pozzuoli</span></span>
+                    <span class="ls-l" 
+                    	style="
+                        	width: 1324px; 
+                            text-align: center; 
+                            font-size: 58px; 
+                            font-weight: 600; 
+                            text-transform: uppercase; 
+                            text-shadow: 1px 1px 0 rgba( 255, 255, 255, 0.5 ); 
+                            top: 284px; 
+                            left: 50%;
+                        " 
+                    	data-ls="delayin: 5500; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 3500;"
+                    ><span style="color: white;">nuovo campus</span> di <span style="color: white;">Pozzuoli</span></span>
                     
                     <img src="img/banner/03-2-flash.png" class="ls-l" data-ls="top: 0, left: 0; offsetxin: 0; offsetyin: 0; offsetxout: 0; offsetyout: 0; delayin: 5000; showuntil: 10;" alt="Image layer">
                         
@@ -27,7 +63,7 @@
                     
                     
                 <!-- Slide 2 -->
-                <div class="ls-slide" data-ls="transition2d: all; slidedelay: 12000;">
+                <div class="ls-slide" data-ls="transition2d: all; slidedelay: 14000;">
                     
                     <img src="img/banner/02-0-sfondo.gif" class="ls-bg" alt="Slide background">
                     

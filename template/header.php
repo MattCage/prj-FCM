@@ -112,7 +112,7 @@
 								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Il Corso <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="offerta-formativa.php">Offerta Formativa</a></li>
-                                    <li><a href="documenti/2015-2016/pds-2015-2016-animazione-videogiochi.pdf">Piano di Studi</a></li>
+                                    <li><a href="documenti/2015-2016/pds-2015-2016-animazione-videogiochi.pdf" target="_blank">Piano di Studi</a></li>
                                     <li><a href="calendario-accademico.php">Calendario Accademico</a></li>
 								</ul>
 							</li>

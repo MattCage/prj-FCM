@@ -57,7 +57,7 @@
                                     <a href="#">Il Corso</a>
                                     <ul>
                                         <li><a href="offerta-formativa.php">Offerta Formativa</a></li>
-                                        <li><a href="documenti/2015-2016/pds-2015-2016-animazione-videogiochi.pdf">Piano di Studi</a></li>
+                                        <li><a href="documenti/2015-2016/pds-2015-2016-animazione-videogiochi.pdf" target="_blank">Piano di Studi</a></li>
                                         <li><a href="calendario-accademico.php">Calendario Accademico</a></li>
                                     </ul>
                                 </li>
