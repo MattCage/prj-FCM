@@ -7,11 +7,11 @@
             <section id="layerslider" style="width: 100%; height: 540px; border-bottom: 1px solid #2c3e50;">
                     
                 <!-- Slide 1 -->
-                <div class="ls-slide" data-ls="transition2d: all; slidedelay: 9000;">
+                <div class="ls-slide" data-ls="transition2d: all; slidedelay: 10000;">
                     
                     <img src="img/banner/03-0-sfondo.png" class="ls-bg" alt="Slide background">
                     
-                    <img src="img/banner/03-1-pozzuoli.png" class="ls-l" data-ls="top: 0, left: 0; offsetxin: 0; offsetyin: 0; delayin: 5500; showuntil: 3500;" alt="Image layer">
+                    <img src="img/banner/03-1-pozzuoli.png" class="ls-l" data-ls="top: 0, left: 0; offsetxin: 0; offsetyin: 0; delayin: 5500; showuntil: 4500;" alt="Image layer">
                     
                     <span class="ls-l"
                     	style="
@@ -24,7 +24,7 @@
                             top: 120px; 
                             left: 50%;
                         " 
-                        data-ls="delayin: 1000; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 8000;"
+                        data-ls="delayin: 1000; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 9000;"
                     >L'Università di Videogiochi e Animazione</span>
                     
                     <span class="ls-l" 
@@ -38,7 +38,7 @@
                             top: 202px; 
                             left: 50%;
                         " 
-                        data-ls="delayin: 3000; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 6000;"
+                        data-ls="delayin: 3000; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 7000;"
                     >apre le porte del</span>
                     
                     <span class="ls-l" 
@@ -52,7 +52,7 @@
                             top: 284px; 
                             left: 50%;
                         " 
-                    	data-ls="delayin: 5500; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 3500;"
+                    	data-ls="delayin: 5500; offsetxin: 0; offsetyin: 0; fadein: true; showuntil: 4500;"
                     ><span style="color: white;">nuovo campus</span> di <span style="color: white;">Pozzuoli</span></span>
                     
                     <img src="img/banner/03-2-flash.png" class="ls-l" data-ls="top: 0, left: 0; offsetxin: 0; offsetyin: 0; offsetxout: 0; offsetyout: 0; delayin: 5000; showuntil: 10;" alt="Image layer">
@@ -63,7 +63,7 @@
                     
                     
                 <!-- Slide 2 -->
-                <div class="ls-slide" data-ls="transition2d: all; slidedelay: 14000;">
+                <div class="ls-slide" data-ls="transition2d: all; slidedelay: 12000;">
                     
                     <img src="img/banner/02-0-sfondo.gif" class="ls-bg" alt="Slide background">
                     
@@ -159,19 +159,31 @@
                 </div>
                     
                 <!-- Slide 3 -->                    
-                <div class="ls-slide" data-ls="transition2d: all; slidedelay: 7000;">
+                <div class="ls-slide" data-ls="transition2d: all; slidedelay: 8000;">
                     
                     <img src="img/banner/00-0-sfondo.gif" class="ls-bg" alt="Slide background">
                         
-                    <img src="img/banner/00-1-sfondo-sx.png" class="ls-l" data-ls="top: 0, left: 0; delayin: 500; offsetxin: left; easingin: easeOutExpo; showuntil: 4800;" alt="Image layer">
+                    <img src="img/banner/00-1-sfondo-sx.png" class="ls-l" data-ls="top: 0, left: 0; delayin: 500; offsetxin: left; easingin: easeOutExpo; showuntil: 5800;" alt="Image layer">
                         
-                    <img src="img/banner/00-2-sfondo-dx.png" class="ls-l" data-ls="top: 0; right: 0; delayin: 1000; offsetxin: right; easingin: easeOutExpo; showuntil: 4300; offsetxout: right;" alt="Image layer">
+                    <img src="img/banner/00-2-sfondo-dx.png" class="ls-l" data-ls="top: 0; right: 0; delayin: 1000; offsetxin: right; easingin: easeOutExpo; showuntil: 5300; offsetxout: right;" alt="Image layer">
                         
-                    <img src="img/banner/00-3-logoFCM.png" class="ls-l" style="top: 320px; left: 33%;" data-ls="delayin: 2500; offsetxin: 0; offsetyin: top; fadein: true; easingin: easeOutBounce; showuntil: 3250; skewyout: 90" alt="Image layer">
+                    <img src="img/banner/00-3-logoFCM.png" class="ls-l" style="top: 320px; left: 33%;" data-ls="delayin: 2500; offsetxin: 0; offsetyin: top; fadein: true; easingin: easeOutBounce; showuntil: 4250; skewyout: 90" alt="Image layer">
                         
-                    <img src="img/banner/00-4-logoLCU.png" class="ls-l" style="top: 290px; left: 66%;" data-ls="delayin: 2750; offsetxin: 0; offsetyin: top; fadein: true; easingin: easeOutBounce; showuntil: 3000; skewyout: -90" alt="Image layer">
+                    <img src="img/banner/00-4-logoLCU.png" class="ls-l" style="top: 290px; left: 66%;" data-ls="delayin: 2750; offsetxin: 0; offsetyin: top; fadein: true; easingin: easeOutBounce; showuntil: 4000; skewyout: -90" alt="Image layer">
                         
-                    <span class="ls-l" style="width: 987px; text-align: center; font-size: 62px; font-weight: 600; text-transform: uppercase; text-shadow: 1px 1px 0 rgba( 255, 255, 255, 0.5 ); top: 20px; left: 50%;" data-ls="delayin: 1500; offsetxin: 0; offsetyin: bottom; fadein: true; easingin: easeOutBounce; showuntil: 4400; scalexout: 10; scaleyout: 10">Laurearsi in Videogiochi e Animazione? Ora si può, grazie a</span>
+                    <span class="ls-l" 
+                    	style="
+                    		width: 987px; 
+                        	text-align: center; 
+                        	font-size: 62px; 
+                        	font-weight: 600; 
+                        	text-transform: uppercase; 
+                        	text-shadow: 1px 1px 0 rgba( 255, 255, 255, 0.5 ); 
+                        	top: 20px; 
+                    	    left: 50%;
+                    	" 
+                    	data-ls="delayin: 1500; offsetxin: 0; offsetyin: bottom; fadein: true; easingin: easeOutBounce; showuntil: 5400; scalexout: 10; scaleyout: 10"
+                    >Laurearsi in Videogiochi e Animazione? Ora si può, grazie a</span>
                         
                 </div>
                     
